@@ -153,7 +153,7 @@ def apply_blur(image_np, boxes):
 
 
 # --- UI / Frontend ---
-st.title("🌃 ShinjukuMozaiku - A Privacy Tool")
+st.title("🌃 ShinjukuMozaiku - A Reliable Privacy Guard")
 st.markdown(
 	"Upload target visual data. AI Auto-Flags sensitive text. Tap highlighted sectors to toggle localized obfuscation. Execute download sequence when ready.")
 
