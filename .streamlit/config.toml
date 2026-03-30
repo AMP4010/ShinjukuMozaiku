@@ -1,0 +1,15 @@
+[theme]
+# The primary accent color (Neon Pink/Magenta)
+primaryColor = "#ff2a6d"
+
+# Deep, dark background (Cyberpunk night sky)
+backgroundColor = "#01012b"
+
+# Slightly lighter dark background for sidebar/cards
+secondaryBackgroundColor = "#050a30"
+
+# Bright cyan text for contrast
+textColor = "#05d9e8"
+
+# Standard font
+font = "sans serif"

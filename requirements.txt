@@ -1,0 +1,9 @@
+streamlit
+easyocr
+transformers
+torch
+torchvision
+opencv-python-headless
+Pillow
+streamlit-image-coordinates
+huggingface-hub
